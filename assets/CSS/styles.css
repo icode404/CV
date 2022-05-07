@@ -1,0 +1,222 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #041C32;
+    color:#fff;
+    padding-bottom: 20px;
+  
+}
+#home{
+    
+    padding-top: 150px;;
+    padding-bottom: 150px;;
+}
+.intro{
+    font-size: 15px;
+    font-weight: 200;
+}
+.name{
+    font-weight: bold;
+    font-size: 55px;;
+}
+.designation{
+    font-size: 20px;;
+    font-weight: 200;
+}
+
+.profpic{
+    
+    width:450px;
+}
+.homeelements{
+    padding-top: 60px;
+}
+.homeconticons{
+    list-style:none;
+    line-height: 40px;
+}
+#skills{
+    padding-top: 50px;
+}
+.secheading{
+    text-align: center;
+}
+.secsubheading{
+    text-align: center;
+}
+h4{
+    width: 300px;
+}
+.progress{
+    height:3px;
+    width: 300px;;
+}
+.barprogress{
+    list-style: none;
+}
+.progresstable{
+    line-height: 40px;
+    margin: 0;
+}
+.tabitems{
+    padding: 5px;
+}
+.barsec{
+    padding-top: 100px;
+}
+a {
+    color: #fff;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover{
+      color: grey;
+  }
+.mouse{
+    margin-top: 200px;
+}
+.ladakhimage{
+    width:300px;
+}
+.barsec1{
+    padding-top: 100px;
+    padding-right: 0px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+}
+#about{
+    padding: 50px;
+}
+.border
+{
+    border:1px solid red;
+    
+}
+
+.contab{
+    
+    margin-bottom: 50px;
+}
+.centtab{
+    padding-top: 50px;
+    padding-left: 45%;;
+}
+#lastbox{
+    background-color: #0d1217;  
+    padding: 50px;
+}
+.lasttab{
+    padding: 10px;
+}
+.navbar{
+    background-color: #041C32;
+}
+.up{
+    padding-top: 150px;
+    padding-left: 90%;
+}
+@media screen and (max-width: 991px) {
+    .progress{
+        height:3px;
+        width: 100px;;
+    }
+}
+
+@media screen and (max-width: 770px) {
+ .mouse{
+     display: none;
+
+ }   
+ .homeconticons{
+     display: none;
+ }
+ #home{
+    
+    padding-top: 50px;;
+    padding-bottom: 50px;;
+}
+.profpic{
+    
+    width:300px;
+}
+.my-img
+{
+ text-align: center;
+}
+.intro{
+    font-size: 10px;
+    font-weight: 200;
+}
+.name{
+    font-weight: bold;
+    font-size: 40px;;
+}
+.designation{
+    font-size: 15px;;
+    font-weight: 200;
+}
+.block
+{
+    display: block;
+}
+.progress{
+    height:3px;
+    width: 300px;;
+}
+}
+@media screen and (max-width:413px){
+ .block-1
+ {
+     display: block;
+ }
+ .homeelements
+ {
+     margin: 0 auto;
+     padding: 0;
+     width: fit-content;
+ }
+ .name{
+    font-weight: bold;
+    font-size: 30px;
+}
+.designation{
+    font-size: 10px;;
+    font-weight: 200;
+}
+.my-img{
+    padding-left: 45px;
+}
+.lad-img
+{
+    width: 200px;
+    padding-right: 0;
+    margin-left:0 ;
+}
+#about{
+    padding: 0px;
+}
+.ladakhimage{
+    width:150px;
+    border-radius: 10px;
+}
+.barsec1 {
+    padding: 20px;
+}
+#skills{
+    padding-top: 0;
+}
+.barsec{
+    padding-top: 20px;
+}
+.des{
+    font-size: 12px;
+}
+.centtab
+{
+    margin-left: 0;
+    padding: 0;
+}
+.contab{
+    
+    margin-bottom: 30px;
+}
+}
